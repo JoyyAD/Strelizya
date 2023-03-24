@@ -1,7 +1,7 @@
   ## <p align="center"> ༻-✭ Olá! Bem-vindo ao meu perfil do Github ✭-༺ </p>
  
- <img align="right" src= "https://user-images.githubusercontent.com/121899934/227342010-34305974-3296-4b68-89cf-4d244d49302e.jpg"  width="350" height="750"/>
- 
+ <img align="right" src= "https://user-images.githubusercontent.com/121899934/227589972-1a01094d-2aa9-45ff-8179-f750b6d69c55.png"  width="350" height="750"/>
+
  <details>
   <summary> ✧ Sobre mim ✧</summary>
    <p>╔═════════════════════════════════════════════</p>
