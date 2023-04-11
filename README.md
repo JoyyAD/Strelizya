@@ -16,11 +16,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
           
  ## ✧ Estatísticas do Github ✧   
-         
+        
 <div>
 <a href="https://github.com/Strelizya">
 <img height="162" src="https://github-readme-stats.vercel.app/api?username=Strelizya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="149" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strelizya&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strelizya&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## ✧ Meus contatos ✧   
