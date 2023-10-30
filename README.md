@@ -17,11 +17,11 @@
           
  ## ✧ Estatísticas do Github ✧   
         
-<!-- <div>
+<div>
 <a href="https://github.com/Strelizya">
 <img height="162" src="https://github-readme-stats.vercel.app/api?username=Strelizya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="181"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strelizya&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+</div>
 
 ## ✧ Meus contatos ✧   
   <a href="https://instagram.com/joyce.d.a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
