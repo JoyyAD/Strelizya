@@ -1,16 +1,17 @@
-  ## <p align="center"> ༻-✭ Olá! Bem-vindo ao meu perfil do Github ✭-༺ </p>
+  ## <p align="center"> Olá! Bem-vindo ao meu perfil do Github </p>
  
  <img align="right" src= "https://user-images.githubusercontent.com/121899934/227589972-1a01094d-2aa9-45ff-8179-f750b6d69c55.png"  width="200" height="450"/>
 
- <details>
-  <summary> ✧ Sobre mim ✧</summary>
+
+  ## Sobre mim
+
    <p>╔═════════════════════════════════════════════</p>
-   
+      
    - ➺ Atualmente estou em uma jornada para construir grandes coisas
    - ➺ Cursando analise e desenvolvimento de sistemas
  
    <p> ═════════════════════════════════════════════╝</p>  
-</details>
+
   
  ## ✧ Estou aprendendo sobre ✧
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
